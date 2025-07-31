@@ -1,10 +1,6 @@
 ### Modified from M. Stimberg et al, Modeling Neuron–Glia Interactions with the Brian 2 Simulator, Springer International Publishing (2019), doi:10.1007/978-3-030-00817-8 18
 
-import matplotlib
 from brian2 import *
-import pandas as pd
-
-
 
 # MODEL PARAMETERS
 
