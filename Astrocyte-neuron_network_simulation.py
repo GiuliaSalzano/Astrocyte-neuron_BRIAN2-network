@@ -2,7 +2,6 @@
 
 import matplotlib
 from brian2 import *
-import plot_utils as pu
 import pandas as pd
 
 
